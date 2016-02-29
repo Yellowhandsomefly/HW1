@@ -24,7 +24,7 @@ public class TestAccount{
 
          	System.out.println(sdFormat.format(current));
 		System.out.println("Your name is " + account.getName() + "Your AnnualInterestRate is " + account.getAnnualInterestRate());
-		System.out.println(account.transactions);
+		/**System.out.println(account.transactions);*/
 	}
 
 } 
